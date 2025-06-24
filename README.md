@@ -26,6 +26,5 @@ The IMF updates its GDP figures **twice a year**, and this script allows for **a
   - `requests` – To fetch webpage content
   - `BeautifulSoup` – For HTML parsing
   - `pandas` – For data manipulation and export
-  - `schedule` / `cron` – For automation (optional)
 
 
